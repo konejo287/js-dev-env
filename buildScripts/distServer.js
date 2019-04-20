@@ -3,6 +3,8 @@ var path = require('path');    //ES5 import fashion
 var open = require('open');
 import compression from 'compression';
 
+/* eslint-disable no-console */
+
 const port = 3000;
 const app = express();
 
